@@ -11,7 +11,7 @@ real-world autonomous driving.</p>
 With Carla, we get a car, an environment to drive that car in, and then we have a
 bunch of sensors that we can place upon the car to emulate real-life self-driving
 car sensors. Things like LIDAR, cameras, accelerometers, and so on.<br>
-Here's the Video Demo Attached:
+Here's the Video Demo Attached:<br>
 <a href="https://drive.google.com/file/d/1c5AiB13mxToQQ0STBamHvlo0eqg77qOu/view?usp=drive_link">Create Client and World then attach camera to the vehicle</a></p>
 <br>
 
