@@ -11,6 +11,7 @@ real-world autonomous driving.</p>
 With Carla, we get a car, an environment to drive that car in, and then we have a
 bunch of sensors that we can place upon the car to emulate real-life self-driving
 car sensors. Things like LIDAR, cameras, accelerometers, and so on.<br>
+Here's the Video Demo Attached:<br>
 <a href="https://drive.google.com/file/d/1c5AiB13mxToQQ0STBamHvlo0eqg77qOu/view?usp=drive_link">Create Client and World then attach camera to the vehicle</a></p>
 <br>
 
@@ -21,6 +22,7 @@ Actors are things like your car, the sensors on your car, pedestrians, and so on
 Finally, we have blueprints. The blueprints are the attributes of our actors. The
 most important thing we'll take care of immediately is the list of actors, and
 cleaning them up when we're done.<br>
+Here's the Video Demo Attached:<br>
 <a href="https://drive.google.com/file/d/1rVo0o4OsNWRuVT9NugaPZTN7_VlfdwSa/view?usp=drive_link">Localization</a></p>
 <br>
 
@@ -31,6 +33,7 @@ images can then be processed using computer vision algorithms to detect the lane
 markings. Once the lane boundaries are detected, they can be used to provide
 information to the vehicle's control system, such as lane departure warnings or
 trajectory planning.<br>
+Here's the Video Demo Attached:<br>
 <a href="https://drive.google.com/file/d/1FTR65-TLN8plPfp_NJ_7mx7Q69Mb9BrB/view?usp=drive_link">Lane Detection</a></p>
 <br>
 
@@ -42,4 +45,5 @@ To perform object detection in Carla, a sensor such as a camera is attached to a
 vehicle and captures data about the surrounding environment. This data is then
 processed using an object detection algorithm, which identifies and locates objects
 in the data, such as pedestrians, vehicles, and traffic signs.<br>
+Here's the Video Demo Attached:<br>
 <a href="https://drive.google.com/file/d/1IOZN77rVQ7B4s9Tmcdki1i48gmTvSrOV/view?usp=drive_link">Object Detection</a></p>
