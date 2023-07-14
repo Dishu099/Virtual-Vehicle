@@ -1,5 +1,5 @@
 # Virtual-Vehicle
-<p> The project i.e. Virtual Vehicle which is a virtual self-driving car uses the Carla
+<p>  The project i.e. Virtual Vehicle which is a virtual self-driving car uses the Carla
 simulator to test and develop algorithms and systems for autonomous driving.</p><br>
 <p>CARLA (Car Learning to Act) is an open-source simulator designed for research
 and development in autonomous driving. It provides a realistic virtual
